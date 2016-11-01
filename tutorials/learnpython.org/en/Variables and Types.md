@@ -38,7 +38,7 @@ There are additional variations on defining strings that make it easier to inclu
 
 Simple operators can be executed on numbers and strings:
 
-<div data-datacamp-exercise="" data-height="250" data-encoded="true">
+<div data-datacamp-exercise="" data-height="300" data-encoded="true">
 eyJsYW5ndWFnZSI6InB5dGhvbiIsInByZV9leGVyY2lzZV9jb2RlIjoiIiwic2FtcGxlIjoib25lID0gMVxudHdvID0gMlxudGhyZWUgPSBvbmUgKyB0d29cblxuaGVsbG8gPSBcImhlbGxvXCJcbndvcmxkID0gXCJ3b3JsZFwiXG5oZWxsb3dvcmxkID0gaGVsbG8gKyBcIiBcIiArIHdvcmxkXG5wcmludChoZWxsb3dvcmxkKSJ9
 </div>
 

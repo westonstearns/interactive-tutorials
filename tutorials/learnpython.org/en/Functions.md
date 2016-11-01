@@ -23,14 +23,14 @@ Block keywords you already know are "if", "for", and "while".
 Functions in python are defined using the block keyword "def", followed with the function's name as the block's name.
 For example: 
 
-<div data-datacamp-exercise="" data-height="200" data-encoded="true">
+<div data-datacamp-exercise="" data-height="300" data-encoded="true">
 eyJsYW5ndWFnZSI6InB5dGhvbiIsInByZV9leGVyY2lzZV9jb2RlIjoiIiwic2FtcGxlIjoiZGVmIG15X2Z1bmN0aW9uKCk6XG4gICAgcHJpbnQoXCJIZWxsbyBGcm9tIE15IEZ1bmN0aW9uIVwiKVxuXG5teV9mdW5jdGlvbigpIiwic29sdXRpb24iOiIiLCJzY3QiOiIifQ==
 </div>
  
 Functions may also receive arguments (variables passed from the caller to the function). 
 For example:
 
-<div data-datacamp-exercise="" data-height="200" data-encoded="true">
+<div data-datacamp-exercise="" data-height="300" data-encoded="true">
 eyJsYW5ndWFnZSI6InB5dGhvbiIsInByZV9leGVyY2lzZV9jb2RlIjoiIiwic2FtcGxlIjoiZGVmIG15X2Z1bmN0aW9uX3dpdGhfYXJncyh1c2VybmFtZSwgZ3JlZXRpbmcpOlxuICAgIHByaW50IChcIkhlbGxvLCAlcyAsIEZyb20gTXkgRnVuY3Rpb24hLCBJIHdpc2ggeW91ICVzXCIgJSh1c2VybmFtZSwgZ3JlZXRpbmcpKVxuXG5teV9mdW5jdGlvbl93aXRoX2FyZ3MoXCJQeXRob25pc3RhXCIsIFwiaGFwcHkgY29kaW5nIVwiKSIsInNvbHV0aW9uIjoiIiwic2N0IjoiIn0=
 </div>
  

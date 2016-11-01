@@ -5,13 +5,13 @@ A dictionary is a data type similar to arrays, but works with keys and values in
 
 For example, a database of phone numbers could be stored using a dictionary like this:
 
-<div data-datacamp-exercise="" data-height="200" data-encoded="true">
+<div data-datacamp-exercise="" data-height="300" data-encoded="true">
 eyJsYW5ndWFnZSI6InB5dGhvbiIsInByZV9leGVyY2lzZV9jb2RlIjoiIiwic2FtcGxlIjoicGhvbmVib29rID0ge31cbnBob25lYm9va1tcIkpvaG5cIl0gPSA5Mzg0Nzc1NjZcbnBob25lYm9va1tcIkphY2tcIl0gPSA5MzgzNzcyNjRcbnBob25lYm9va1tcIkppbGxcIl0gPSA5NDc2NjI3ODFcbnByaW50KHBob25lYm9vaykiLCJzb2x1dGlvbiI6IiIsInNjdCI6IiJ9
 </div>
 
 Alternatively, a dictionary can be initialized with the same values in the following notation:
 
-<div data-datacamp-exercise="" data-height="200" data-encoded="true">
+<div data-datacamp-exercise="" data-height="300" data-encoded="true">
 eyJsYW5ndWFnZSI6InB5dGhvbiIsInByZV9leGVyY2lzZV9jb2RlIjoiIiwic2FtcGxlIjoicGhvbmVib29rID0ge1xuICAgIFwiSm9oblwiIDogOTM4NDc3NTY2LFxuICAgIFwiSmFja1wiIDogOTM4Mzc3MjY0LFxuICAgIFwiSmlsbFwiIDogOTQ3NjYyNzgxfVxucHJpbnQocGhvbmVib29rKSIsInNvbHV0aW9uIjoiIiwic2N0IjoiIn0=
 </div>
 

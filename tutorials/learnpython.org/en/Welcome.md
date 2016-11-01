@@ -1,4 +1,4 @@
-This site generously supported by [DataCamp](https://www.datacamp.com/?utm_source=learnpython_com&utm_campaign=learnpython_tutorials). DataCamp offers online interactive [Python Tutorials](https://www.datacamp.com/courses/?utm_source=learnpython_com&utm_campaign=learnpython_tutorials) for Data Science. Join **575,000** other learners and get started learning Python for data science today!
+This site generously supported by DataCamp. DataCamp offers online interactive [Python tutorials](https://www.datacamp.com/courses/?utm_source=learnpython_com&utm_campaign=learnpython_tutorials) for Data Science. Join **over a million** other learners and start to [learn Python for data science](https://www.datacamp.com/?utm_source=learnpython_com&utm_campaign=learnpython_tutorials) today!
 
 # Welcome
 
